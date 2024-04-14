@@ -1,3 +1,7 @@
+change directory to AngularProjectLiquid
+using command cd AngularProjectLiquid
+then run the command "ng serve" to run the app.
+
 # AngularProjectLiquid
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.4.
